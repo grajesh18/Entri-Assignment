@@ -1,12 +1,12 @@
-##Employee Data Analysis Project
+## Employee Data Analysis Project
 
-##Overview
+## Overview
 
 This project analyzes employee data from ABC Company to uncover insights related to team distribution, job roles, age groups, and salary patterns. The analysis includes data preprocessing, visualization, and interpretation of key trends.
 
 ---
 
-##Objectives
+## Objectives
 
 * Perform data preprocessing and cleaning
 * Analyze employee distribution across teams and positions
@@ -17,7 +17,7 @@ This project analyzes employee data from ABC Company to uncover insights related
 
 ---
 
-##Tools & Technologies
+## Tools & Technologies
 
 * Python
 * Pandas
@@ -28,7 +28,7 @@ This project analyzes employee data from ABC Company to uncover insights related
 
 ---
 
-##Data Preprocessing
+## Data Preprocessing
 
 * Cleaned and structured dataset
 * Replaced invalid values in the **Height** column with random values between 150–180
